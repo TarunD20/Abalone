@@ -1,2 +1,1 @@
-# MATH5836
-Data Mining Course at UNSW
+# Predicting the age of Abalone using Decision Trees and Random Forests
